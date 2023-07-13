@@ -361,3 +361,102 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+*.asset
+SQL - FINALS/Library/PackageCache/com.unity.2d.animation@7.0.9/.signature
+*.txt
+*.bhc
+SQL - FINALS/Library/AnnotationManager
+*.graph
+SQL - FINALS/Library/ArtifactDB
+SQL - FINALS/Library/ArtifactDB-lock
+*.json
+*.outputdata
+*.dag_derived
+*.dll
+*.png
+*.cs
+*.asmdef
+SQL - FINALS/Library/PackageCache/com.unity.2d.animation@7.0.9/Editor/SkinningModule/Lib/x86_64/BoundedBiharmonicWeightsModule.bundle/Contents/MacOS/BoundedBiharmonicWeightsModule
+*.plist
+*.md
+SQL - FINALS/Library/PackageCache/com.unity.2d.psdimporter@6.0.7/.signature
+SQL - FINALS/Library/PackageCache/com.unity.2d.pixel-perfect@5.0.3/.signature
+SQL - FINALS/Library/PackageCache/com.unity.2d.path@5.0.2/.signature
+SQL - FINALS/Library/PackageCache/com.unity.2d.spriteshape@7.0.6/.signature
+*.uxml
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/dsymutil
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostlin/llvm-lipo
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostlin/lld
+*.bin
+*.db
+SQL - FINALS/Library/PackageCache/com.unity.test-framework@1.1.31/.signature
+*.ModuleCompilationTrigger
+*.unitypackage
+*.uss
+SQL - FINALS/Library/ScriptMapper
+SQL - FINALS/Library/PackageManager/ProjectCache
+*.st
+SQL - FINALS/Library/SourceAssetDB
+*.defines
+*.ai
+*.afphoto
+*.psd
+*.mdb
+*.xml
+*.g
+SQL - FINALS/Library/PackageCache/com.unity.visualscripting@1.8.0/.signature
+*.release
+*.md5
+SQL - FINALS/Library/SourceAssetDB-lock
+*.catalog
+SQL - FINALS/UserSettings/Layouts/default-2021.dwlt
+*.po
+SQL - FINALS/Library/PackageCache/com.unity.timeline@1.6.4/.signature
+*.a
+*.dylib
+SQL - FINALS/Library/PackageCache/com.unity.collab-proxy@2.0.1/.Resources/.collabignore
+*.yml
+SQL - FINALS/Library/PackageCache/com.unity.collab-proxy@2.0.1/.Resources/.collabattributes
+SQL - FINALS/Library/PackageCache/com.unity.collab-proxy@2.0.1/.gitattributes
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.signature
+*.lib
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/B4B9E3881B00232E
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/66B6680AF8A7451D
+*.config
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/llvm-lipo
+*.exe
+SQL - FINALS/Library/PackageCache/com.unity.collab-proxy@2.0.1/.signature
+SQL - FINALS/Library/PackageCache/com.unity.ide.rider@3.0.18/.signature
+SQL - FINALS/Library/PackageCache/com.unity.ide.visualstudio@2.0.17/Editor/Plugins/.gitattributes
+SQL - FINALS/Library/PackageCache/com.unity.ide.visualstudio@2.0.17/Editor/Plugins/AppleEventIntegration.bundle/Contents/MacOS/AppleEventIntegration
+SQL - FINALS/Library/PackageCache/com.unity.mathematics@1.2.6/.signature
+SQL - FINALS/Library/PackageCache/com.unity.ide.visualstudio@2.0.17/.signature
+SQL - FINALS/Library/PackageCache/com.unity.ide.vscode@1.2.5/.signature
+SQL - FINALS/Library/PackageCache/com.unity.mathematics@1.2.6/Unity.Mathematics/Noise/README
+SQL - FINALS/Library/PackageCache/com.unity.mathematics@1.2.6/Unity.Mathematics/Noise/LICENSE
+SQL - FINALS/Library/PackageCache/com.unity.ide.rider@3.0.18/.editorconfig
+*.so
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/D9186C53EA4CD61E
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/43FFF67504C1B77C
+SQL - FINALS/Library/PackageCache/com.unity.2d.tilemap.extras@2.2.4/.signature
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/207A89C76C3730EA
+SQL - FINALS/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostlin/dsymutil
+*.asmref
+SQL - FINALS/Library/PackageCache/com.unity.ide.visualstudio@2.0.17/Editor/Plugins/AppleEventIntegration.bundle/Contents/_CodeSignature/CodeResources
+*.dag
+*.dag_fsmtime
+*.traceevents
+SQL - FINALS/Library/Bee/bee_backend.info
+SQL - FINALS/Library/Bee/tundra.digestcache
+*.map
+*.shader
+*.state
+SQL - FINALS/Library/BuildPlayer.prefs
+SQL - FINALS/Library/expandedItems
+SQL - FINALS/Library/PackageCache/com.unity.2d.common@6.0.6/.signature
+*.prefab
+SQL - FINALS/Library/ShaderCache/EditorEncounteredVariants
+*.anim
+*.cginc
+SQL - FINALS/Library/PackageCache/com.unity.2d.animation@7.0.9/Editor/SkinningModule/Lib/x86_64/BoundedBiharmonicWeightsModule.bundle/Contents/_CodeSignature/CodeResources
